@@ -64,7 +64,7 @@ html {
 .logo-sub-headline {
   font-size: 8.5rem;
   font-family: "Cormorant", serif;
-  color: var(--light-white);
+  color: var(--var-gardenia);
   /* font-weight: 100; */
   font-weight: bolder;
   line-height: 0.4;
